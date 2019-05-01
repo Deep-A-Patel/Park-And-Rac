@@ -1,0 +1,8 @@
+.park_visited_true {
+  border: 5px solid red;
+  background-color: rgb(248, 122, 122);
+}
+.park_visited_false {
+  border: 5px solid green;
+  background-color: rgb(161, 250, 161);
+}
